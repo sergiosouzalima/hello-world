@@ -2,7 +2,7 @@
 One Paragraph of function description goes here.
 ## Getting started
 ### Prerequisites
-* [FaaStRuby](https://faastruby.io) version 0.5.23 or higher.
+* [FaaStRuby](https://faastruby.io) version 0.5.27 or higher.
 ```
 # To install
 ~$ gem install faastruby
@@ -19,4 +19,5 @@ One Paragraph of function description goes here.
 ```
 ~$ faastruby new FUNCTION_NAME --template github:user/repository
 ```
-
+### Deployed to
+* [hello](https://hello-world-stage-4ebfc3.tor1.faast.cloud/hello) function hello in the cloud.
